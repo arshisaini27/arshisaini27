@@ -20,15 +20,13 @@ I love exploring new technologies and building projects while improving my skill
 - 🚀 Building beginner-friendly projects
 - ✨ Learning something new every day!
 
-## 🛠️ Tech Stack
 
-- HTML & CSS
-- JavaScript
-- Python
-- Java
-- C#
-- Node.js
-- Git & GitHub
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,nodejs,git,github,vscode" />
+</p>
+
 
 ## 🚀 My Projects
 
